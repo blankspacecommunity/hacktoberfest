@@ -27,5 +27,3 @@ If you want to add your project to our Hacktoberfest repository, follow these st
    - **Repository Link:** [Your Repository Link]
    - **Introduction:** One-line introduction to your project.
    - **Languages Used:** List the programming languages used in your project.
-
-We'll review your project and add it to our list! Happy coding and contributing to open source! 🚀
